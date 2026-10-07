@@ -1,3 +1,4 @@
+# тот же самый
 class Test:
     def __init__(self):
         self.name = "Dima"
